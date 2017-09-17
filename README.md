@@ -1,2 +1,2 @@
 # TODOplus
-Nano project tool
+Nano project tool - think, plan, visualize and meet your goals!
